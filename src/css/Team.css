@@ -1,0 +1,71 @@
+.garisSpan {
+  width: 35px;
+  height: 4px;
+  margin: 30px 15px;
+  background: #F47522;
+  border-radius: 2px;
+}
+
+/* p,
+span,
+label {
+  font-family: 'Poppins',
+    sans-serif;
+} */
+
+td,
+#calendar {
+  font-family: 'Poppins',
+    sans-serif;
+  color: #19345E;
+}
+
+#about-team,
+.fs-3,
+.fs-4 {
+  font-family: 'Mulish',
+    sans-serif;
+  color: #19345E;
+}
+
+#about-team span {
+  width: 35px;
+  height: 4px;
+  margin: 30px 15px;
+  background: #F47522;
+  border-radius: 2px;
+}
+
+#batik1 {
+  top: 0;
+  margin-top: 103px;
+  width: 180px;
+  position: absolute;
+  z-index: -1;
+  opacity: 0.8;
+}
+
+#gambar {
+  width: 320px;
+  height: 360px;
+  margin-left: 30px;
+  position: absolute;
+}
+
+#calendar ul li img {
+  width: 14px;
+}
+
+main {
+  margin-bottom: 120px;
+}
+
+.border {
+  width: 320px;
+  height: 360px;
+  margin-top: 30px;
+  position: absolute;
+  z-index: 2;
+  border-width: 10px !important;
+  border-color: #F47522 !important;
+}

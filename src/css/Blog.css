@@ -1,0 +1,35 @@
+#blog {
+  font-family: 'Mulish',
+    sans-serif;
+  color: #19345E;
+}
+
+.how {
+  font-family: 'Mulish',
+    sans-serif;
+  text-align: left;
+  font-size: 60px;
+  color: #19345E;
+}
+
+.fw-bold {
+  font-family: 'Mulish',
+    sans-serif;
+  font-size: 20px;
+  color: #19345E;
+}
+
+#paragraph p {
+  font-family: 'Poppins',
+    sans-serif;
+  word-spacing: 8px;
+  color: #19345E;
+}
+
+.garisSpan {
+  width: 35px;
+  height: 4px;
+  margin: 30px 15px;
+  background: #F47522;
+  border-radius: 2px;
+}

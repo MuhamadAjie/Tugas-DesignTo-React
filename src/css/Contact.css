@@ -1,0 +1,59 @@
+.garisSpan {
+  width: 35px;
+  height: 4px;
+  margin: 30px 15px;
+  background: #F47522;
+  border-radius: 2px;
+}
+
+#get-in {
+  font-family: 'Mulish',
+    sans-serif;
+  color: #19345E;
+}
+
+#get-in span {
+  width: 35px;
+  height: 4px;
+  margin: 30px 15px;
+  background: #F47522;
+  border-radius: 2px;
+}
+
+.col-lg-4 img {
+  width: 15px;
+  height: 15px;
+}
+
+#social-profile img {
+  width: 25px;
+  height: 25px;
+}
+
+p,
+span,
+label {
+  font-family: 'Poppins',
+    sans-serif;
+}
+
+#send {
+  background: #F47522;
+  border-radius: 50px;
+}
+
+#send span img {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.form-label span {
+  color: red;
+}
+
+#copy p {
+  font-family: Arial,
+    Helvetica,
+    sans-serif;
+}
